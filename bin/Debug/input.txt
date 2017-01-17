@@ -1,0 +1,9 @@
+4
+airplane
+2 2 3 5
+train
+1 2 1
+ship
+3 2 4
+ship
+1 2 4
